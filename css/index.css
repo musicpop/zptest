@@ -1,0 +1,21 @@
+BODY {
+	BORDER-RIGHT: #ffffff 0px; BORDER-TOP: #ffffff 0px; SCROLLBAR-FACE-COLOR: #CC00FF; BORDER-LEFT: #ffffff 0px; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #CC00FF; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #CC00FF; BORDER-BOTTOM: #ffffff 0px; SCROLLBAR-DARKSHADOW-COLOR: #CC00FF
+}
+.deepblue10 {  font-size: 10pt; color: #3333FF; text-decoration: none}
+.purple {  color: #CC00FF; text-decoration: none; font-size: 10pt}
+A.purple:hover {  font-size: 10pt; color: #3366FF; background-color: #99FFFF; text-decoration: none}
+A.purple:link {  color: #CC00FF; text-decoration: none; font-size: 10pt}
+a:hover {  text-decoration: none}
+a:visited {  text-decoration: none}
+A.purple {  font-size: 10pt; color: #CC00FF; text-decoration: none}
+.white12 {  font-size: 12pt; color: #FFFFFF; text-decoration: none}
+.brown9 {  font-size: 10pt; color: #6600CC; text-decoration: none}
+.black9 {  font-size: 9pt; text-decoration: none}
+.redlarge {  font-size: 18px; font-weight: bolder; color: #FF00CC}
+.grey9 {  font-size: 9pt; color: #CCCCCC}
+.lightblue9 {  font-size: 9pt; color: #00CCFF; text-decoration: none}
+.green9 {  font-size: 9pt; color: #00CC00}
+.deepyellow9 {  font-size: 9pt; color: #FFCC00; text-decoration: none}
+.red9 {  font-size: 9pt; color: #FF6666; text-decoration: none}
+.deepblue9 {  font-size: 9pt; color: #3333FF; text-decoration: none}
+.yellow18 {  font-size: 18px; color: #FFFF66; text-decoration: none}
