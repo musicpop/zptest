@@ -1,4 +1,4 @@
-<?
+  <?
 session_cache_limiter('private, must-revalidate');
 session_start(); // ¿ªÊ¼session
 $session_id=session_id();
